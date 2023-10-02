@@ -94,7 +94,7 @@ A cross join, shows all possible combinations between tables.
 
 <img src="imgs/CrossJ.png" width="300"/>
 
-## Self
+## Self Join
 
 A simple but powerful example is provided to see employees and corresponding manager by name, this given that the information is stored in the same table.
 
